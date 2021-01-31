@@ -8,9 +8,9 @@ This repository contains usage examples of tools from or based on the Eclipse Mo
 To play around with the provided examples, follow these steps:
 
 1. Download one of the predefined Eclipse packages depending on your OS:
-   * Linux: [Link](https://www.ilias.fh-dortmund.de/ilias/goto_ilias-fhdo_file_822607_download.html)
-   * macOS: [Link](https://www.ilias.fh-dortmund.de/ilias/goto_ilias-fhdo_file_822655_download.html)
-   * Windows: [Link](https://www.ilias.fh-dortmund.de/ilias/goto_ilias-fhdo_file_822609_download.html)
+   * Linux: [Link](TODO)
+   * macOS: [Link](TODO)
+   * Windows: [Link](TODO)
 
 2. Clone/Download this repository to your harddrive.
 3. Run the ``eclipse`` executable in the package you downloaded in step 1, create a workspace as requested by the IDE, and import the projects you cloned/downloaded in step 2. Projects can be imported in Eclipse by hitting ``File > Open Projects from File System...``, then choosing the parent folder of the cloned/downloaded projects as ``Import source``, and after the projects were loaded hitting ``Finish``.
@@ -69,7 +69,7 @@ To try out the LEMMA examples, you have to do the following:
   You can double click on each of the mentioned files to open the editor that shows the contained model according to the syntax of the respective modeling language and play around with the models leveraging the editor.
 
 ## References
-[1] [https://wiki.eclipse.org/EMF](https://wiki.eclipse.org/EMF)
-[2] [https://wiki.eclipse.org/Xcore](https://wiki.eclipse.org/Xcore)
-[3] [https://www.eclipse.org/Xtext](https://www.eclipse.org/Xtext)
-[4] [https://github.com/SeelabFhdo/lemma](https://github.com/SeelabFhdo/lemma)
+[1] [https://wiki.eclipse.org/EMF](https://wiki.eclipse.org/EMF)  
+[2] [https://wiki.eclipse.org/Xcore](https://wiki.eclipse.org/Xcore)  
+[3] [https://www.eclipse.org/Xtext](https://www.eclipse.org/Xtext)  
+[4] [https://github.com/SeelabFhdo/lemma](https://github.com/SeelabFhdo/lemma)  
